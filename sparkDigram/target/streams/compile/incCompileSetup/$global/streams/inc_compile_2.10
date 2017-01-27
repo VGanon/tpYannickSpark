@@ -1,0 +1,170 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+6 items
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> /home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/target/scala-2.10/classes/SparkDigram$$anonfun$1.class
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> /home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/target/scala-2.10/classes/SparkDigram$$anonfun$2.class
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> /home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/target/scala-2.10/classes/SparkDigram$$anonfun$3.class
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> /home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/target/scala-2.10/classes/SparkDigram$$anonfun$4.class
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> /home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/target/scala-2.10/classes/SparkDigram$.class
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> /home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/target/scala-2.10/classes/SparkDigram.class
+binary dependencies:
+3 items
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> /home/yannick/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.5.2.jar
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> /home/yannick/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+6 items
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> SparkDigram
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> SparkDigram$
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> SparkDigram$$anonfun$1
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> SparkDigram$$anonfun$2
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> SparkDigram$$anonfun$3
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> SparkDigram$$anonfun$4
+used names:
+63 items
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> +
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> <init>
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> Any
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> AnyRef
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> Array
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> ArrayOps
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> Class
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> ClassTag
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> Function1
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> Function2
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> Int
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> Iterator
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> K
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> Nothing
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> Object
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> Ordering
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> PairRDDFunctions
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> Predef
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> RDD
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> ScalaRunTime
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> SparkConf
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> SparkContext
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> SparkDigram
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> String
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> T
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> T1
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> T2
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> TraversableOnce
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> Tuple2
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> U
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> Unit
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> V
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> _$3
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> _$4
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> _$6
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> a
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> apache
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> apply
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> arrayClass
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> counts
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> flatMap
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> line
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> map
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> materializeClassTag
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> math
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> mkString
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> org
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> package
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> rdd
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> rddToPairRDDFunctions
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> reduceByKey
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> refArrayOps
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> saveAsTextFile
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> sc
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> scala
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> setAppName
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> setMaster
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> sliding
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> spark
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> split
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> textFile
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> trim
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> word
+product stamps:
+6 items
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/target/scala-2.10/classes/SparkDigram$$anonfun$1.class -> lastModified(1485363188000)
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/target/scala-2.10/classes/SparkDigram$$anonfun$2.class -> lastModified(1485363188000)
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/target/scala-2.10/classes/SparkDigram$$anonfun$3.class -> lastModified(1485363188000)
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/target/scala-2.10/classes/SparkDigram$$anonfun$4.class -> lastModified(1485363188000)
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/target/scala-2.10/classes/SparkDigram$.class -> lastModified(1485363188000)
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/target/scala-2.10/classes/SparkDigram.class -> lastModified(1485363188000)
+source stamps:
+1 items
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> hash(900d9419df75a13c2439f4b94549011e8029110e)
+binary stamps:
+3 items
+/home/yannick/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.5.2.jar -> lastModified(1446582950000)
+/home/yannick/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1442568926000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1477592329000)
+class names:
+3 items
+/home/yannick/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.5.2.jar -> org.apache.spark.rdd.PairRDDFunctions
+/home/yannick/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.collection.mutable.ArrayOps
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwRMpOhQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwKsnWkHQABm5vdGlmeXNxAH4ADE0HJip0AAtTcGFya0RpZ3JhbXNxAH4ADN/XM0p0AAR3YWl0c3EAfgAMxZCDyHQADSRhc0luc3RhbmNlT2ZzcQB+AAyjI+8BdAAGZXF1YWxzc3EAfgAMhM4FyHQADGFzSW5zdGFuY2VPZnNxAH4ADP5tAO90AAxzeW5jaHJvbml6ZWRzcQB+AAx84NeqdAANJGlzSW5zdGFuY2VPZnNxAH4ADJ23kmt0AARtYWluc3EAfgAMd5fH6HQACW5vdGlmeUFsbHNxAH4ADGKheSV0AAxpc0luc3RhbmNlT2ZzcQB+AAw5ao0IdAACPT1zcQB+AAyX9pyDdAAFY2xvbmVzcQB+AAzyURMCdAAIdG9TdHJpbmdzcQB+AAwydDnbdAACIT1zcQB+AAxucC+adAAIZ2V0Q2xhc3NzcQB+AAw1Xw52dAACbmVzcQB+AAwm95LedAACZXFzcQB+AAyTLxFcdAACIyNzcQB+AAyyLm1pdAAIZmluYWxpemVzcQB+AAxFyJiEdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ABF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBdc3EAfgBYdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAfdXEAfgBQAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AFx0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBcc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB4dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AU3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXHNxAH4Aa3QABUFycmF5cQB+AHF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Aa3QABlN0cmluZ3NxAH4Ab3NxAH4AcnVxAH4AdQAAAANzcQB+AHd0AARqYXZhc3EAfgB3dAAEbGFuZ3EAfgB8c3EAfgBYdXEAfgA8AAAAAHNxAH4AWHVxAH4AkAAAAAJzcQB+AGt0AAZPYmplY3RxAH4AlHNxAH4Aa3QAA0FueXEAfgBxdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVnWi4TAdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATS9ob21lL3lhbm5pY2svc3BhcmstMS41LjItYmluLWhhZG9vcDIuNi9zcGFya0RpZ3JhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUkA2UGd91oTwkOfS5RUkBHoApEQ4=
+external apis:
+0 items
+source infos:
+1 items
+/home/yannick/spark-1.5.2-bin-hadoop2.6/sparkDigram/SparkDigram.scala -> 
+AAAAAAAAAAA=
+compilations:
+15 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWco8u9Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9ob21lL3lhbm5pY2svc3BhcmstMS41LjItYmluLWhhZG9vcDIuNi9zcGFya0RpZ3JhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWco/6Kp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9ob21lL3lhbm5pY2svc3BhcmstMS41LjItYmluLWhhZG9vcDIuNi9zcGFya0RpZ3JhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcpKeHJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9ob21lL3lhbm5pY2svc3BhcmstMS41LjItYmluLWhhZG9vcDIuNi9zcGFya0RpZ3JhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcpW4+h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9ob21lL3lhbm5pY2svc3BhcmstMS41LjItYmluLWhhZG9vcDIuNi9zcGFya0RpZ3JhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcpiv951cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9ob21lL3lhbm5pY2svc3BhcmstMS41LjItYmluLWhhZG9vcDIuNi9zcGFya0RpZ3JhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcpxBUp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9ob21lL3lhbm5pY2svc3BhcmstMS41LjItYmluLWhhZG9vcDIuNi9zcGFya0RpZ3JhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcp8k051cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9ob21lL3lhbm5pY2svc3BhcmstMS41LjItYmluLWhhZG9vcDIuNi9zcGFya0RpZ3JhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcp9qLh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9ob21lL3lhbm5pY2svc3BhcmstMS41LjItYmluLWhhZG9vcDIuNi9zcGFya0RpZ3JhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWdXZuEx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9ob21lL3lhbm5pY2svc3BhcmstMS41LjItYmluLWhhZG9vcDIuNi9zcGFya0RpZ3JhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWdXhVLF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9ob21lL3lhbm5pY2svc3BhcmstMS41LjItYmluLWhhZG9vcDIuNi9zcGFya0RpZ3JhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWdY4oi11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9ob21lL3lhbm5pY2svc3BhcmstMS41LjItYmluLWhhZG9vcDIuNi9zcGFya0RpZ3JhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWdY8xx91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9ob21lL3lhbm5pY2svc3BhcmstMS41LjItYmluLWhhZG9vcDIuNi9zcGFya0RpZ3JhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWdZQumZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9ob21lL3lhbm5pY2svc3BhcmstMS41LjItYmluLWhhZG9vcDIuNi9zcGFya0RpZ3JhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWdaIlK51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9ob21lL3lhbm5pY2svc3BhcmstMS41LjItYmluLWhhZG9vcDIuNi9zcGFya0RpZ3JhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWdaLhMB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9ob21lL3lhbm5pY2svc3BhcmstMS41LjItYmluLWhhZG9vcDIuNi9zcGFya0RpZ3JhbS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==

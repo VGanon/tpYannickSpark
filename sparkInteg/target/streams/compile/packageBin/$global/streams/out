@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0mPackaging /home/yannick/spark-1.5.2-bin-hadoop2.6/sparkInteg/target/scala-2.10/spark-integ_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	SparkIntegral$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/yannick/spark-1.5.2-bin-hadoop2.6/sparkInteg/target/scala-2.10/classes/SparkIntegral$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	SparkIntegral$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/yannick/spark-1.5.2-bin-hadoop2.6/sparkInteg/target/scala-2.10/classes/SparkIntegral$.class[0m
+[0m[[0mdebug[0m] [0m	SparkIntegral.class[0m
+[0m[[0mdebug[0m] [0m	  /home/yannick/spark-1.5.2-bin-hadoop2.6/sparkInteg/target/scala-2.10/classes/SparkIntegral.class[0m
+[0m[[0mdebug[0m] [0m	SparkIntegral$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/yannick/spark-1.5.2-bin-hadoop2.6/sparkInteg/target/scala-2.10/classes/SparkIntegral$$anonfun$2.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
